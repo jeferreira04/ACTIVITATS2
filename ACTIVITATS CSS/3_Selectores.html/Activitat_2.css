@@ -1,0 +1,10 @@
+h1 { color:blueviolet;
+font-style: italic;}
+
+h2 {color:violet;
+    text-decoration: underline}
+
+p {text-align: justify;
+    color: #4c4c4c}
+
+body {background-color: palegoldenrod;}
