@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Disney";
+    
+    src: url("fuentetexto/titulo.ttf");
+}
+
+@font-face {
+    font-family: "Mickey";
+    
+    src: url("fuentetexto/texto.ttf");
+}
+
+.titulo {
+    font-family: "Mickey";
+    
+}
+
+.texto {
+font-family: "Disney"
+}
