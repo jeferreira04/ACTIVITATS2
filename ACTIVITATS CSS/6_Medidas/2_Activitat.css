@@ -1,0 +1,29 @@
+#lavadora {
+background-color: aqua;
+max-width: 5rem
+}
+
+#agitador {
+background-color:aquamarine;
+max-width: 10rem
+}
+
+#imagen {
+background-color: bisque;
+max-width: 15rem
+}
+
+#model {
+background-color: chocolate;
+max-width: 20rem
+}
+
+#sku {
+background-color: cornflowerblue;
+max-width: 25rem;
+}
+
+#precio {
+background-color: darkgoldenrod;
+max-width: 30rem;
+}

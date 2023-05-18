@@ -1,0 +1,24 @@
+h1 {
+background-color: aqua;
+font-style: italic;
+}
+
+.p1 {
+background-color: aquamarine;
+font-weight: 600;
+max-height: 10rem;
+min-height: 5rem;
+}
+
+.p2 {
+    background-color: rgb(255, 127, 176);
+    font-weight: 600;
+    max-height: 10rem;
+min-height: 5rem;
+}
+ .p3 {
+    background-color: rgb(166, 46, 221);
+    font-weight: 600;
+    max-height: 10rem;
+min-height: 5rem;
+ }

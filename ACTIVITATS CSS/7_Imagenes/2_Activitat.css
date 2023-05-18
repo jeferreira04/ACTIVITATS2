@@ -1,0 +1,18 @@
+body {
+background-image: url(https://business.trustedshops.es/hubfs/1-TS_B2B/content/FR/20190815_Checklist_Landing_Page/landing_Page_background.png);
+height: 100vh;
+}
+
+h1 {
+font-weight: 600;
+font-style:normal;
+font-size: 3rem;
+font-family: "Oswald", sans-serif;
+width: 30rem;
+}
+
+p {
+font-size: 1.7;
+font-family: "Oswald", sans-serif;
+font-display: block
+}
