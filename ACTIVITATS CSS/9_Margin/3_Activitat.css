@@ -1,0 +1,25 @@
+body{
+margin: 0;
+}
+
+.parte_superior{
+width: 100%;
+height: 400px;
+background-image: url(../IMAGENES/escritorio.png);
+background-repeat: no-repeat;
+background-size: cover;
+text-align: center;
+padding:10px ;
+}
+
+.titulo_head{
+color: white;
+border-bottom: 1px solid red;
+}
+
+.parte_inferior{
+width: 100%;
+height: 400px;
+background-color: red;
+padding: 10px;
+}
