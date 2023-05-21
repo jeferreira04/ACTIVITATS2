@@ -31,6 +31,7 @@ border: 3px solid;
 border-color:rgb(255, 136, 0);
 margin: auto;
 border-collapse: collapse;
+max-width: 90rem;
 }
 
 
