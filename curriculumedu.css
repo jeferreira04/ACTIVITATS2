@@ -38,9 +38,11 @@ border-collapse: collapse;
 text-decoration: underline;
 font-weight: bold;
 background-color:rgb(202, 113, 12);
+text-align: center;
 }
 td{
 background-color: rgb(250, 214, 173);
+text-align: center;
 }
 
 .info_formacion li{
