@@ -26,14 +26,21 @@ text-decoration: none;
 margin-right: 1rem;
 }
 
-table{
-border-color: rgb(255, 136, 0);
+table, td{
+border: 2px solid;
+border-color:rgb(255, 136, 0);
 margin: auto;
+border-collapse: collapse;
 }
 
-.cabezera{
+
+.cabezera td{
 text-decoration: underline;
 font-weight: bold;
+background-color:rgb(202, 113, 12);
+}
+td{
+background-color: rgb(250, 214, 173);
 }
 
 .info_formacion li{
