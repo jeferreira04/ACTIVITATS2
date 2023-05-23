@@ -1,0 +1,8 @@
+img{
+margin-left: 15rem;
+width: 120px;
+height: 150px;
+border: 6px solid red;
+border-radius: 1rem;
+border-image: linear-gradient(rgb(0, 200, 250), red) 1;
+}
