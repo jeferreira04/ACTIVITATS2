@@ -1,0 +1,17 @@
+ul{
+text-align: center;
+list-style-type: none;
+width: 10rem;
+font-size: 2rem;
+}
+
+li{
+border: 1px solid black;
+background-color: rgb(99, 189, 159);
+color: white;
+}
+
+li:hover{
+background-color: azure;
+color: blueviolet;
+}
